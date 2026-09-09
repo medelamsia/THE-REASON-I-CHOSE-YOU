@@ -1,51 +1,50 @@
 # SUMMARY / OVERVIEW
 
-## Format rule
-Each episode has a **maximum runtime of 60 seconds**.
+## Runtime and pacing rule
+Every episode has a **hard maximum of 60 seconds**.
 
-- Target: ~45–60 seconds
-- Hard maximum: 60 seconds
-- No episode should exceed 1:00
-- Default production unit: 6 blocks × 10 seconds
-- Blocks may use less than 10 seconds when the source beat is short; do not pad scenes just to fill time.
-- The 6-block structure is a production framework, not a requirement that every block must contain dialogue.
-- Dialogue, action, reaction, ambience, and visual storytelling can share a block.
+- Target: roughly 45–60 seconds, depending on how much of the source beat is needed.
+- Never exceed 1:00.
+- The six blocks are **storyboard/edit partitions**, not six mandatory ten-second scenes.
+- A single block may contain multiple shots, quick cuts, short dialogue, inserts, reaction shots, or a transition.
+- A block may be much shorter than ten seconds.
+- Do not pad silence, exposition, or reactions just to reach 60 seconds.
+- When a chapter contains more material than one minute can carry, keep the strongest causal chain and leave other source material out rather than inventing or stretching it.
 
-## Season overview
+## Season structure
+The source's visible table of contents lists Chapter 1 through Chapter 49, followed by Appreciations and an Epilogue. This adaptation therefore uses:
+- EP01–EP49 = Chapters 1–49
+- EP50 = Epilogue
+- Appreciations is not a story episode.
 
-**EP01–EP10 — Collision / Forced Marriage**
-Tory and Zion meet before knowing each other's identities. A family arrangement suddenly makes Zion choose Tory instead of Amelia. They marry and begin a hostile honeymoon marked by jealousy, rules, and forced proximity.
+## Arc overview
 
-**EP11–EP20 — Cracks in the Contract**
-Jealousy becomes mutual attraction. Tory wants a career, Zion starts protecting and pursuing her, and their fake marriage becomes harder to separate from real feelings. Family debt and Gerald's control expose the dangerous reason their marriage exists.
+### EP01–EP10 — First collision, marriage, and honeymoon
+Tory meets Zion twice before fully understanding who he is. Zion is being forced toward an arranged marriage by Gerald, then changes his choice and selects Tory. The wedding happens, the honeymoon begins, and their relationship is defined by rules, jealousy, and forced proximity.
 
-**EP21–EP30 — Falling in Love / The Children Conflict**
-Tory starts working at Éclaire and builds her own professional identity. Zion and Tory openly fall in love, but Nataly's presence and Zion's hidden trauma keep causing conflict. Tory discovers Zion's scars and learns he refuses to ever have children, creating their biggest disagreement yet.
+### EP11–EP20 — Attraction, secrets, independence, and debt
+The honeymoon ends in a fight over Gustavo and Nataly. Tory wants a career, Zion begins to show attraction and care, and Grandma visits. Tory eventually learns the Wallsmans' debt is the reason the marriage exists. Zion interferes with Tory's job search and brings her into Éclaire.
 
-**EP31–EP36 — Truth, Healing, and the Unspoken Future**
-Zion reveals the trauma behind his scars and his fear of becoming like Gerald. He and Tory reconnect, while Amelia's pregnancy makes Tory's own desire for motherhood harder to ignore. Their marriage becomes more loving, but the children question remains unresolved.
+### EP21–EP30 — Love becomes real
+Tory starts at Éclaire and works alongside Nataly. Zion and Tory become increasingly intimate and eventually declare their love. The brunette bet hurts Tory but is not the whole reason Zion chose her. Tory's future career, fertility questions, family relationships, and Zion's scars become central to the story.
 
-**EP37–EP43 — Pregnancy Secret / Zion Changes**
-Tory discovers she is pregnant and hides it from Zion because she fears his reaction. The secret eventually explodes. Zion initially rejects the pregnancy, then slowly begins caring for Tory and bonding with the baby. His first real "Daddy" moment marks the emotional shift.
+### EP31–EP36 — Trauma and rebuilding
+The Bora Bora trip brings the wider family together. Zion's past, the boarding-school abuse, his sobriety, and his rivalry with Gustavo are discussed. Amelia gives birth to Angelo. Zion's birthday and the anniversary period force Tory and Zion to confront the difference between love and their unresolved disagreement about children.
 
-**EP44–EP46 — Loss, Risk, and Choosing Family**
-Nana dies, Tory suffers a pregnancy complication, and the baby's heartbeat remains strong. Zion becomes fully protective and takes responsibility for Tory's wellbeing. He begins imagining a future as a father and reveals the house he built for their family.
+### EP37–EP43 — Pregnancy secret
+Tory realizes she may be pregnant, confirms an eight-week pregnancy, and initially hides it from Zion. She is frightened he will leave. Zion eventually discovers the pregnancy, struggles with the idea of fatherhood, then gradually starts caring for Tory and accepting the baby.
 
-**EP47–EP49 — Separation, Truth, Reconciliation**
-A misunderstood message from Nataly makes Tory believe Zion has hidden another child. She leaves. Zion finds her and explains the truth, but gives her space. Tory discovers the home he built and finally understands how completely Zion has chosen their family. Gerald's abuse is exposed, and Tory and Zion reconcile before labor begins.
+### EP44–EP46 — Nana, the pregnancy scare, and family
+Zion accompanies Nataly while she deals with cancer; Nataly reveals their past pregnancy ended in abortion. Meanwhile Nana is rushed to the hospital and dies. Tory suffers bleeding from a subchorionic hemorrhage, but the baby's heartbeat remains strong. Zion cares for Tory, and the couple takes the Maldives trip before confronting Gerald again.
 
-**EP50 — Epilogue / New Family Era**
-Three years later, Tory is professionally successful and she and Zion are raising their daughter Abby. Tory discovers she is pregnant again. Zion is genuinely excited, and they later announce they are expecting twins. The story closes with the family choosing more love rather than returning to the fear that once defined them.
+### EP47–EP49 — Misunderstanding, separation, truth, reconciliation
+Tory misreads Nataly's messages about their past baby and believes Zion has another child. She leaves. Zion finds her and explains the truth. Tory later sees the house and nursery Zion prepared for their family. Gerald's abuse is confronted with police involvement after Katherine's evidence, and Tory and Zion reconcile before the final labor sequence.
 
-## One-line series overview
+### EP50 — Epilogue
+Three years later, Tory is professionally successful and she and Zion are raising Abby. Tory discovers another pregnancy. Zion is happy, and the family later learns they are expecting twins. Abby struggles with the idea of sharing her parents until they explain that siblings bring more love and support.
 
-A sharp-tongued young woman enters a forced marriage with an arrogant billionaire who first chose her for the wrong reason, only for jealousy, trauma, love, pregnancy, and family conflict to transform their contract into the family they willingly choose.
+## One-line overview
+A young woman enters a forced marriage with an arrogant billionaire, only for jealousy, family secrets, trauma, career ambitions, pregnancy, and reconciliation to turn the contract into a family they genuinely choose.
 
-## Runtime policy for future scripts
-
-When expanding an episode into storyboard, image prompts, or video prompts:
-1. Keep the episode at or below **60 seconds total**.
-2. Prefer **45–55 seconds** when the story beat can land cleanly without rushing.
-3. Never add filler dialogue, reaction shots, or exposition solely to reach 60 seconds.
-4. Preserve the episode's core hook and ending beat even when compressing.
-5. If a source chapter contains too much material, prioritize the strongest causal chain and carry the remaining material into the next episode rather than exceeding 60 seconds.
+## Fidelity policy
+The episode files are **source-faithful adaptations**, not scene-by-scene transcripts. Compression and omission are intentional because of the 60-second ceiling. No new plot event should be added merely to fill a block or extend runtime.
