@@ -1,20 +1,18 @@
 # DIRECTOR SPEC — MICRO DRAMA
 
 ## Purpose
-These episode files are director-level adaptation briefs for a continuous short-form drama.
+These files are the director's story-architecture and production briefs for a continuous short-form drama.
 
-Workflow:
-SOURCE PDF → DIRECTOR CUT → EPISODE ≤60s → PARTS 10s → STORYBOARD → VIDEO.
-
-## Episode vs chapter
-A source chapter is not automatically an episode.
-The director may combine adjacent chapters when their dramatic chain is naturally continuous, or split dense material across multiple episodes when the 60-second ceiling would otherwise destroy pacing.
+## Episode model
+A chapter is not automatically an episode.
+Adjacent material may be combined when the causal/emotional flow is continuous.
+Dense material may be split when forcing it into one minute would damage pacing.
 
 ## Runtime
-Each episode has a HARD MAXIMUM of 60 seconds.
+Every episode has a HARD MAXIMUM of 60 seconds.
 
-## Parts
-Each episode is partitioned into six 10-second storyboard/edit chunks:
+## Part model
+Every episode is divided into:
 00:00–00:10
 00:10–00:20
 00:20–00:30
@@ -22,78 +20,68 @@ Each episode is partitioned into six 10-second storyboard/edit chunks:
 00:40–00:50
 00:50–01:00
 
-The purpose of these parts is production/storyboard segmentation.
+These are storyboard/edit production chunks.
 
-A part is NOT a standalone scene.
-A part is NOT a mini-episode.
-A part does NOT reset blocking.
-A part does NOT reset emotion.
-A part does NOT reset wardrobe, environment, props, or character knowledge.
+They are NOT:
+- independent scenes;
+- mini-episodes;
+- mandatory emotional resets;
+- reasons to restart blocking;
+- reasons to restart wardrobe, props, environment, or character knowledge.
 
-The story continues through the cut. A part can end mid-action so the next part can continue that action.
+The story continues through the cut. A part may end mid-action.
 
 ## Pacing
-Do not slow a scene merely because it crosses a part boundary.
-Do not add filler to make dialogue fill ten seconds.
-Do not add walking, staring, establishing shots, silence, reaction loops, or exposition unless they advance the source beat.
+- Never pad a part.
+- Never add filler dialogue.
+- Never add decorative walking, staring, travel, establishing shots, or silence without dramatic purpose.
+- Use rapid cuts when the beat is rapid.
+- Let emotional scenes breathe only when the story requires it.
+- The finished episode must remain at or below 60 seconds.
 
-The director distributes attention by dramatic importance, not by equal visual activity.
-
-## Episode construction
-Every episode should contain:
-- Source material range
-- Dramatic purpose
-- Six continuous story beats
-- Action/blocking for each beat
-- Dialogue anchors supported by the source
-- Performance/subtext
-- Visual/edit intention
-- Continuity state
-- Ending/carry-over state
+## Episode detail standard
+Each episode brief should define:
+- dramatic purpose;
+- continuous story beats;
+- action/blocking;
+- dialogue;
+- performance/subtext;
+- visual/edit intention;
+- continuity state;
+- ending and next-episode carry-over.
 
 ## Dialogue
-Prefer exact source dialogue when possible.
-Compression of dialogue is acceptable only when meaning and character intent remain intact.
-Do not fabricate plot-changing dialogue.
-
-## Adaptation
-Allowed:
-- compression
-- omission for runtime
-- combining source beats
-- camera changes
-- motivated staging
-- converting internal narration into visual acting when meaning is preserved
-
-Not allowed:
-- new plot events
-- new relationships
-- altered motivations
-- altered causal order
-- filler dialogue
-- artificial hooks that change the story
+Dialogue should preserve established character intent and wording. Shortening is allowed for runtime. Do not invent plot-changing dialogue.
 
 ## Continuity
-EP(n) ending state becomes EP(n+1) starting state.
+The ending state of EP(n) is the starting state of EP(n+1).
 
-Continuity includes:
-- character knowledge
-- relationship status
-- emotional state
-- physical location
-- wardrobe
-- props
-- environmental conditions
-- pregnancy timeline
-- unresolved conflict
+Track:
+- character knowledge;
+- character beliefs;
+- relationship status;
+- emotional state;
+- location;
+- wardrobe;
+- props;
+- pregnancy/family timeline;
+- unresolved conflict.
 
-## Titles
-Episode titles are optional packaging. The continuation of the story is mandatory.
+## Compression hierarchy
+When time is insufficient:
+1. Preserve causal story events.
+2. Preserve emotional turns.
+3. Preserve essential dialogue.
+4. Preserve continuity information.
+5. Cut repetition and decorative material.
 
 ## Director priority
-1. Source canon
+1. Story logic
 2. Continuity
 3. Causal dramatic flow
 4. Character performance
 5. Pacing
 6. Visual style
+
+## Titles
+Episode titles are optional packaging. Story continuation is mandatory.
