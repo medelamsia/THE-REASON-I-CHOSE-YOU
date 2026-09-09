@@ -1,14 +1,14 @@
-THE REASON I CHOSE YOU — Micro Drama
+# THE REASON I CHOSE YOU — MICRO DRAMA
 
-Director-led micro-drama adaptation from the uploaded source PDF.
+Director-led micro-drama adaptation.
 
-## Current structure
-- 42 episodes total
-- Each episode: hard maximum 60 seconds
-- Each episode: 6 x 10-second storyboard/edit partitions
-- Parts are continuous story chunks, not standalone scenes.
-- Source chapters are grouped or split according to dramatic flow; a chapter is not automatically an episode.
-- Episode titles are optional packaging.
+## Final structure
+- 42 publishable episodes
+- Hard maximum: 60 seconds per episode
+- Six 10-second storyboard/edit partitions per episode
+- Parts are continuous sections of one story, not standalone scenes
+- Source chapters are grouped or split according to dramatic flow
+- Episode titles are optional packaging
 
 ## Episode map
 EP01 Flashback + Ch1
@@ -53,7 +53,12 @@ EP39 Ch48
 EP40–41 Ch49
 EP42 Epilogue
 
-## Director workflow
-Source PDF → dramatic arc → 60-second episode → 10-second storyboard chunks → storyboard/video production.
+## Working documents
+- STORY_BIBLE.md / SUMMARY_OVERVIEW.md — overall dramatic architecture
+- DIRECTOR_SPEC.md — production rules
+- CANON.md — continuity rules and character facts
+- SEASON_MAP.md — episode/source grouping
+- episodes/ — director briefs
 
-Read DIRECTOR_SPEC.md before downstream storyboard generation.
+## Production workflow
+Story architecture → 60-second episode → six 10-second production chunks → downstream storyboard → video production.
